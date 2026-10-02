@@ -205,7 +205,7 @@ margin: 1.2em 5em;
 
 .stiftinfo {
   display: flex;
-  gap: 95px;
+  gap: 3em 6em;
   justify-content: flex-start;
 }
 
